@@ -1,5 +1,5 @@
 # Programação em Lógica (CC3012)
-Neste repositório está o código relativo à Unidade Curricular de Programação em Lógica do Ano Letivo 2021/2022.
+Neste repositório está o código relativo à Unidade Curricular de Programação em Lógica do Ano Letivo 2021/2022 - DCC/FCUP.
 
 | Diretório    | Descrição |
 | :----------- | :-------------------------------------------------------------------------------------------|
