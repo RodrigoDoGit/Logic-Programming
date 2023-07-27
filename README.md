@@ -1,6 +1,6 @@
-# Programação em Lógica (CC3012)
-Neste repositório está o código relativo à Unidade Curricular de Programação em Lógica do Ano Letivo 2021/2022 - DCC/FCUP.
+# Logic Programming (CC3012)
+This repository contains the code for Logic Programming Course Unit of 2021/2022 Academic Year - DCC/FCUP.
 
-| Diretório    | Descrição |
+| Folder    | Description |
 | :----------- | :-------------------------------------------------------------------------------------------|
-| Código Base  | Código fonte disponibilizado como base para resoluç dos exercícios das aulas práticas |
+| Base Code  | Source code given as base to solve the lab classes exercises |
